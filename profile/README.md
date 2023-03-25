@@ -1,6 +1,6 @@
 ![](https://www.kindpng.com/picc/m/118-1189062_transparent-peter-griffin-png-peter-griffin-channel-art.png)
 # Family Guy Online Archive 
-This Repository contains all the assets to Family Guy Online's Original Assets Obtained from the game via Game Storage Cache.
+This Github Orginisation contains all the assets to Family Guy Online's Original Assets Obtained from the game via Game Storage Cache.
 
 I am not responsible for anything you do with these assets. Nor am responsible for the quality of the assets.
 ```
